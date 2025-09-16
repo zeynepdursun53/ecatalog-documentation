@@ -1,0 +1,25 @@
+# 📃 Kullanım Klavuzu
+
+eCatalog Kullanıcı Kılavuzu, platformu ilk kez kullanacak olan kullanıcılar için adım adım rehberlik sağlar. Bu kılavuz, eCatalog'un tüm özelliklerini ve işlevlerini ayrıntılı bir şekilde açıklayarak, kullanıcıların platformu etkin bir şekilde kullanmalarını amaçlar. Kılavuzun temel bölümleri şunlardır:
+
+* [<mark style="color:blue;">**Hesap Oluşturma & Giriş Yapma**</mark>](hesap-olusturma-and-giris-yapma.md)
+* [<mark style="color:blue;">**Hesap Ayarları**</mark> ](hesap-ayarlari/)
+  * [Gelişmiş Hesap Ayarları](hesap-ayarlari/gelismis-hesap-ayarlar.md)
+* [**Excel Dosyası Formatları**](excel-dosyasi-formatlari.md)
+* [**Katalog Oluşturma**](katalog-olusturma.md)
+* [**Kataloglar**](kataloglar/)
+  * [Katalog Linkleri](kataloglar/katalog-linkleri.md)
+  * [Genel Özellikler](kataloglar/genel-ozellikler.md)
+* [**Katalog Ayarları**](katalog-ayarlari/)
+  * [Gelişmiş Fonksiyon Ayarları](katalog-ayarlari/gelismis-fonksiyon-ayarlari.md)
+  * [Tasarım Tercih Ayarları](katalog-ayarlari/tasarim-tercih-ayarlari.md)
+* [**Siparişler**](siparisler/)
+  * [Sipariş Formu](siparisler/siparis-formu.md)
+  * [Siparişleri Yönetme](siparisler/siparisleri-yonetme.md)
+  * [Sipariş Email'leri](siparisler/siparis-emailleri.md)
+* [**Fotoğraf Yükleme ve Medya**](fotograf-yukleme-ve-medya/)
+  * [Tekli Fotoğraf Yükleme](fotograf-yukleme-ve-medya/tekli-fotograf-yukleme.md)
+  * [Toplu Fotoğraf Yükleme](fotograf-yukleme-ve-medya/toplu-fotograf-yukleme.md)
+* [**Raporlar**](raporlar.md)
+* [**Tasarım Araçları**](tasarim-araclari/)
+  * [Ürün Arkaplanı Temizleyici](tasarim-araclari/urun-arkaplani-temizleyici.md)
